@@ -2,7 +2,6 @@ package com.openshift.fordevelopers;
 
 import java.util.Date;
 import java.util.Objects;
-
 import io.quarkus.mongodb.panache.MongoEntity;
 import io.quarkus.mongodb.panache.PanacheMongoEntity;
 import io.quarkus.runtime.annotations.RegisterForReflection;
