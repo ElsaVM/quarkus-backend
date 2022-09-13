@@ -14,8 +14,7 @@
     <maven.compiler.source>11</maven.compiler.source>
     <compiler-plugin.version>3.8.1</compiler-plugin.version>
     <maven.compiler.target>11</maven.compiler.target>
-    <sonar.sources>pom.xml,src/test/java,src/test/resources/features</sonar.sources>
-    <sonar.java.binaries>/tmp/src/target/quarkus-backend-1.0.0-SNAPSHOT/WEB-INF/classes</sonar.java.binaries>
+
   </properties>
   <dependencyManagement>
     <dependencies>
